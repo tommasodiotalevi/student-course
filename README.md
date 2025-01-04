@@ -1,7 +1,5 @@
-# ROOT course for students
-[![SWAN](https://swan.web.cern.ch/sites/swan.web.cern.ch/files/pictures/open_in_swan.svg)](https://cern.ch/swanserver/cgi-bin/go?projurl=https://github.com/root-project/student-course.git)
-[![Github Codespace](https://img.shields.io/badge/open-GH_Codespaces-blue?logo=github)](https://codespaces.new/root-project/student-course?quickstart=1)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/root-project/student-course/main)
+# Declarative approach in HEP with ROOT - Hands on session
+(forked from the [ROOT course for students](https://github.com/root-project/student-course) repository)
 
 This course targets young scientists and engineers with little or no experience
 of ROOT. The aim of the course is to reach a solid understanding of the tools
